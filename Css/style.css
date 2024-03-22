@@ -15,7 +15,7 @@
 }
 
 .listItem {
-    background-color: chartreuse;
+    background-color: rgb(189, 212, 167);
     text-align: center;
     width: 100px;
     height: 100px;
@@ -25,7 +25,7 @@
 
 }
 
-p {
-    margin-top: 100px;
-    text-align: center;
+.span {
+    margin-left: 700px;
+    background-color: rgb(251, 202, 137);
 }
